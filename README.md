@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on **Final Year Poject (AI Powered EMR/EHR System**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on **Angular Projects**
-
-- 🤝 I’m looking for help with **Angular**
+- 👯 I’m looking to collaborate on **Mern Projects**
 
 - 💬 Ask me about **React**
 
